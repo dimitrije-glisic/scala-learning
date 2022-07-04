@@ -1,4 +1,4 @@
-package com.dimi.scala.practice.basics
+package com.dimi.scala.practice
 
 import scala.annotation.tailrec
 
